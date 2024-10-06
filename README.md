@@ -28,7 +28,6 @@ I’m driven by a love for learning and collaboration. I'm always looking for an
 
 I'm always open to collaborating on projects or just connecting with people! Feel free to reach out to me via:
 
-- **Instagram**: [youremail@example.com](mailto:youremail@example.com)
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="20" height="20"/>
   Tejay.hall
