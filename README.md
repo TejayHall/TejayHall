@@ -2,7 +2,7 @@
 
 ### About Me ⬇️
 
-I'm **Tejay Hall**, a passionate student who studies Maths and Computer Science. I develop programmes, write music, make CGI. I have around 4.5 years of experience in software development, and I have worked on a diverse range of projects.
+I'm **Tejay Hall**, a passionate student who studies Maths and Computer Science. I develop programmes, write music and make CGI. I have around 4.5 years of experience in software development, and I have worked on a diverse range of projects.
 I’m driven by a love for learning and collaboration. I'm always looking for any new challenges, so please dont hestitate to get in touch.
 
 ### Languages 📙
